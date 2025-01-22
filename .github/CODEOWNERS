@@ -12,26 +12,26 @@
 #  https://help.github.com/en/articles/about-code-owners
 #
 
-* @open-telemetry/collector-approvers
+* @ArthurSens
 
 # List all maintainers individually so all of them are notified
-.github/CODEOWNERS      @open-telemetry/collector-approvers @codeboten @BogdanDrutu @dmitryax @mx-psi
-docs/rfc                @open-telemetry/collector-approvers @codeboten @BogdanDrutu @dmitryax @mx-psi
+.github/CODEOWNERS      @ArthurSens
+docs/rfc                @ArthurSens
 
-confmap/                        @open-telemetry/collector-approvers @mx-psi @evan-bradley
-exporter/debugexporter          @open-telemetry/collector-approvers @andrzej-stencel
-exporter/exporterhelper         @open-telemetry/collector-approvers @BogdanDrutu @dmitryax
-exporter/nopexporter            @open-telemetry/collector-approvers @evan-bradley
-pdata/                          @open-telemetry/collector-approvers @BogdanDrutu @dmitryax
-receiver/nopreceiver            @open-telemetry/collector-approvers @evan-bradley
-service/internal/graph          @open-telemetry/collector-approvers @djaglowski
-extension/xextension            @open-telemetry/collector-approvers @swiatekm
+confmap/                        @ArthurSens
+exporter/debugexporter          @ArthurSens
+exporter/exporterhelper         @ArthurSens
+exporter/nopexporter            @ArthurSens
+pdata/                          @ArthurSens
+receiver/nopreceiver            @ArthurSens
+service/internal/graph          @ArthurSens
+extension/xextension            @ArthurSens
 
 # Profiling-related modules
-pdata/pprofile                          @open-telemetry/collector-approvers @mx-psi @dmathieu
-consumer/xconsumer                      @open-telemetry/collector-approvers @mx-psi @dmathieu
-connector/xconnector                    @open-telemetry/collector-approvers @mx-psi @dmathieu
-exporter/exporterhelper/xexporterhelper @open-telemetry/collector-approvers @mx-psi @dmathieu
-exporter/xexporter                      @open-telemetry/collector-approvers @mx-psi @dmathieu
-processor/xprocessor                    @open-telemetry/collector-approvers @mx-psi @dmathieu
-receiver/xreceiver                      @open-telemetry/collector-approvers @mx-psi @dmathieu
+pdata/pprofile                          @ArthurSens
+consumer/xconsumer                      @ArthurSens
+connector/xconnector                    @ArthurSens
+exporter/exporterhelper/xexporterhelper @ArthurSens
+exporter/xexporter                      @ArthurSens
+processor/xprocessor                    @ArthurSens
+receiver/xreceiver                      @ArthurSens
